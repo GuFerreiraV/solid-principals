@@ -1,6 +1,6 @@
-# SOLID Principles Examples
+# SOLID Principles
 
-Este repositório contém exemplos práticos dos princípios SOLID implementados em C#, juntamente com explicações conceituais detalhadas.
+Este repositório contém exemplos práticos dos princípios SOLID implementados em C#, juntamente com explicações conceituais.
 
 ## O que é SOLID?
 
