@@ -17,4 +17,4 @@ O acrônimo SOLID representa cinco princípios de design de software que visam t
 - Arquivos .cs: Exemplos de implementação em C# localizados na raiz do projeto.
 - Pasta concepts/: Documentação detalhada e explicações teóricas em Markdown.
 
-Created by jules
+Readme created by jules
